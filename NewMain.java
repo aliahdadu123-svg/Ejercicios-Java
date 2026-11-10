@@ -8,7 +8,8 @@ public class NewMain {
         int i;
         String array[] = new String[5];
         String nombre;
-        
+    
+        <!--pedir los 5 nombre-->
         System.out.println("Dame los 5 nombres: ");
         for (i = 0; i < array.length; i++) {
              nombre=teclado.nextLine();
