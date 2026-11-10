@@ -4,7 +4,7 @@ public class NewMain1 {
 
     public static void main(String[] args) {
         Scanner teclado=new Scanner(System.in);
-        
+        <!--pedir una clave-->
         System.out.println("Dame una clave");
         int clave1=teclado.nextInt();
         
